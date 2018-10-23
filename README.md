@@ -1,4 +1,4 @@
-# Lexical-Scoping
+# Lexical-Scoping in R
 
 Lexical Scoping Project for Caching the Inverse of a Matrix
 
